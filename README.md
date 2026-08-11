@@ -134,7 +134,7 @@ Configuration details for Amazon VPC, Route Tables, NAT Gateway, Security Groups
 
 ## 8. VPN Connection Successfully Established
 
-![VPN Connection](Screenshots/15-VPN-Connection-Successful.png)
+![VPN Connection](Screenshots/19-VPN-Connection-Successful.png)
 
 ---
 
@@ -178,6 +178,7 @@ AWS Cloud | Linux Administration | Networking
 GitHub: https://github.com/Ashish-Talekar
 
 LinkedIn: https://www.linkedin.com/in/ashish-talekar/
+
 ---
 
 ## License
