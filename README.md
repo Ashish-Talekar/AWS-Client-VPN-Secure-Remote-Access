@@ -183,4 +183,4 @@ LinkedIn: https://www.linkedin.com/in/ashish-talekar/
 
 ## License
 
-This project is licen
+This project is licensed under the MIT License.
